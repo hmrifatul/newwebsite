@@ -1,0 +1,1075 @@
+body{
+    background-image: url(img/download.jfif);
+    background-repeat: no-repeat;
+    background-image: cover;
+    background-size: 100% 600px;
+    box-sizing: border-box;
+}
+ul li {
+    float: left;
+    padding: 10px;
+    list-style: none;
+}
+ul li a{
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 20px;
+}
+.bar{
+    margin-left: 550px;
+}
+.dot{
+    margin-top: -20px;
+    float: left;
+}
+.agency{
+    margin-left: 100px;
+}
+
+.fa-magnifying-glass{
+    font-size: 30px;
+    padding: 20px;
+    color: aliceblue;
+}
+.fa-facebook{
+    font-size: 30px;
+    color: aliceblue;
+}
+.hr{
+    height: 3px;
+    width: 100%;
+    background-color: aliceblue;
+}
+.leka{
+    margin-left: 200px;
+    margin-top: 100px;
+}
+.bold{
+    font-weight: 900;
+    color: aliceblue;
+}
+samp{
+    color: gold;
+}
+.lorem{
+    color: aliceblue;
+    margin-left: 200px;
+    font-size: 20px;
+}
+.bata{
+    margin-left: 200px;
+    height: 40px;
+    width: 150px;
+    border-radius: 20px;
+    background-color: yellow;
+    border: none;
+}
+/* part-1 ses */
+.box-2{
+     height: 500px;
+     width: 450px;
+     margin-top: 200px;
+     margin-left: 800px;
+}
+.box-img{
+    height: 500px;
+     width: 400px;
+}
+.box-2-leka{
+    margin-top: -100px;
+    color: aliceblue;
+    margin-left: 10px;
+}
+.wel{
+    margin-top: -450px;
+    margin-left: 100px;
+    font-weight: 900;
+}
+.well{
+    color: aqua;
+}
+.coma{
+    margin-left: 80px;
+    font-size: 100px;
+}
+.coma-2{
+    margin-left: 130px;
+    margin-top: -50px;
+}
+.leka-2{
+    margin-left: 100px;
+}
+.bata-2{
+    margin-left: 90px;
+    background-color: gold;
+    border: none;
+    border-radius: 10px;
+    height: 40px;
+    width: 130px;
+}  /* part 2 ses  */
+/* part 3 suro */
+.part-3{
+    background-image: url(img/part-3.jfif);
+    height: 700px;
+    background-repeat: no-repeat;
+    background-size: 100% 200vh;
+}
+.fb-pas{
+    height: 100px;
+    margin-left: 700px;
+    margin-top: 30px;
+}
+.cw-leka{
+    color: gold;
+    margin-left: 850px;
+    margin-top: -110px;
+}
+.cw-p{
+    color: rgb(167, 168, 170);
+    margin-left: 850px;
+}
+.fa-desktop{
+    font-size: 80px;
+    color: aliceblue;
+    margin-left: 750px;
+    margin-top: 30px;
+}
+.fa-diagram-project{
+    font-size: 80px;
+    color: aliceblue;
+    margin-left: 750px;
+    margin-top: 30px;
+}
+.fa-truck-medical{
+    font-size: 80px;
+    color: aliceblue;
+    margin-left: 740px;
+    margin-top: 30px;
+}
+.our-cp{
+    margin-top: -350px;
+    margin-left: 150px;
+}
+.our-cp h1{
+    color: aliceblue;
+}
+.our-cp h2{
+    color: gold;
+}
+.our-lorem p{
+    color: aliceblue;
+    margin-left: 150px;
+}
+/* <!-- part-3 ses -->
+   <!-- part 4 suro --> */
+   .p-4-b-1{
+    height: 500px;
+    width: 250px;
+    margin-top: 100px;
+    margin-left: 400px;
+    background-image: url(img/p-4-b1.jfif);
+    background-repeat: no-repeat;
+    background-size: 250px 500px;
+   }
+   .p-4-b-2{
+    height: 500px;
+    width: 250px;
+    margin-top: -500px;
+    margin-left: 100px;
+    background-image: url(img/p-4-b-2.jfif);
+    background-repeat: no-repeat;
+    background-size: 250px 500px;
+   }
+   .p-4-page{
+        height: 50px;
+        margin-left: 50px;
+        margin-top: 200px;
+   }
+   .p-4-b-1 H1{
+    color:gold;
+    margin-left: 20px;
+   }
+   .p-4-b-1 p{
+    color: rgb(233, 240, 240);
+    margin-left:20PX;
+   }
+   .p-4-b-1 button{
+    margin-left: 50px;
+    background-color: gold;
+    border: none;
+    border-radius: 15px;
+   }
+.p-4-b-2 img{
+     color: rgb(36, 111, 177);
+     height: 70px;
+     margin-left: 80px;
+     margin-top: 200px;
+   }
+   .p-4-b-2 H1{
+    color:gold;
+    margin-left: 20px;
+   }
+   .p-4-b-2 p{
+    color: rgb(233, 240, 240);
+    margin-left:20PX;
+   }
+   .p-4-b-2 button{
+    margin-left: 50px;
+    background-color: gold;
+    border: none;
+    border-radius: 15px;
+   }
+   .for{
+    margin-left: 700px;
+    margin-top: -500px;
+   }
+   .for h1{
+    font-weight: 900;
+   }
+   .lore-2{
+    margin-left: -50px;
+   }
+   .for h2{
+    color: rgb(243, 11, 185);
+   }
+
+   /* <!-- part 4 see --> */
+   /* <!-- p 5 suro --> */
+   .bgallteam{
+        background-image: url(img/team.jpg);
+        height: 700px;
+        background-repeat: no-repeat;
+        margin-top: 400px;
+        background-size: 100% 700px;
+   }
+   .one{
+    color: rgb(245, 244, 242);
+    margin-left: 500px;
+   }
+   .one-two{
+    color: gold;
+    margin-top: -55px;
+    margin-left: 670px;
+   }
+   .b-1{
+    height: 300px;
+    width: 250px;
+    margin-top: 150px;
+    margin-left: 100px;
+    float: left;
+   }
+   .b-2{
+    height: 300px;
+    width: 250px;
+    margin-top: 150px;
+    margin-left: 50px;
+    float: left;
+   }
+   .b-3{
+    height: 300px;
+    width: 250px;
+    margin-top: 150px;
+    margin-left: 53px;
+    float: left;
+   }
+   .b-4{
+    height: 300px;
+    width: 250px;
+    margin-top: 160px;
+    margin-left: 1000px;
+   }
+   .bgallteam p{
+    text-align: center;
+    color: aliceblue;
+   }
+   .b-1 img{
+    height: 300px;
+    width: 250px;
+   }
+   .b-2 img{
+    height: 300px;
+    width: 250px;
+   }
+   .b-3 img{
+    height: 300px;
+    width: 250px;
+   }
+   .b-4 img{
+    height: 300px;
+    width: 250px;
+   }     /* <!-- part-5 ses -->        */
+   /* part 6 suro */
+   .di-1{
+    height: 200px;
+    width: 300px;
+    margin-top: 100px;
+    margin-left: 150px;
+   }
+   .di-2{
+     height: 200px;
+     width: 200px;
+     margin-top: 20px;
+     margin-left: 150px;
+   }
+   .di-3{
+    height: 200px;
+    width: 350px;
+    margin-left: 380px;
+    margin-top: -200px;
+   }
+.di-1 img{
+    height: 200px;
+    width: 300px;
+   }
+.di-2 img{
+    height: 200px;
+     width: 200px;
+}
+.di-3 img{
+    height: 200px;
+    width: 350px;
+}
+.have{
+    float: right;
+    margin-right: 700px;
+    margin-top: -200px;
+}
+.have h2{
+    color: rgb(13, 188, 231);
+    font-weight: 900;
+}
+   .have h1{
+    font-weight: 900;
+   }
+.r-leka{
+      height: 260px;
+      width: 500px;
+      margin-left: 750px;
+      margin-top: -260px;
+   }
+   /* <!-- part-6 ses --> */
+   .part-7 h1{
+    text-align: center;
+    margin-top: 100px;
+    font-weight: 900;
+   }
+   .part-7 p{
+    text-align: center;
+   }
+   .k-1{
+    height: 300px;
+    width: 33.33%;
+    border: 2px solid rgb(243, 242, 242);
+    float: left;
+   }
+   .k-2{
+    height: 300px;
+    width: 33.33%;
+    border: 2px solid rgb(249, 250, 249);
+    float: left;
+   }
+   .k-3{
+    height: 300px;
+    width: 33.333%;
+    border: 2px solid rgb(245, 245, 247);
+    margin-left: 900px;
+   }
+   .k-1 img{
+    height: 300px;
+    width: 100%;
+   }
+   .k-2 img{
+    height: 300px;
+    width: 100%;
+   }
+   .k-3 img{
+    height: 300px;
+    width: 100%;
+   }
+   .k-2 h4{
+    margin-top: -200px;
+    color: rgb(245, 221, 9);
+    text-align: center;
+   }
+   .k-2 p{
+    color: aliceblue;
+   }
+   .beta{
+    margin-left: 170px;
+    background-color: gold;
+    border-radius: 15PX;
+   }
+   /*  <!-- part-7 ses --> */
+   .p-8-1{
+      height: 200px;
+      width: 33.33%;
+      /* border: 2px dotted rgb(150, 238, 9); */
+      float: left;
+   }
+   .p-8-2{
+    height: 200px;
+    width: 33.33%;
+    /* border: 2px dotted rgb(8, 155, 240); */
+    float: left;
+   }
+   .p-8-3{
+    height: 200px;
+    width: 33.33%;
+    /* border: 2px dotted rgb(248, 13, 170); */
+    margin-left: 900px;
+   }
+   .p-8-4{
+      height: 300px;
+      width: 300px;
+      /* border: 2px solid red; */
+      margin-top: 50px;
+      margin-left: 200px;
+   }
+   .p-8-5{
+     height: 300px;
+     width: 500px;
+     /* border: 2px dotted red; */
+     margin-left: 550px;
+     margin-top: -250px;
+   }
+   .p-8-2 img{
+    height: 200px;
+    margin-left: 120px;
+   }
+   .p-8-1 h1{
+    float: right;
+    margin-top: 50px;
+    margin-left: -10px;
+   }
+   .p-8-4 img{
+    height: 300px;
+      width: 300px;
+   }
+   /* <!-- part-8 ses --> */
+   /* <!-- part-9 suro --> */
+   .part-9{
+    float: left;
+   }
+   .dob-1{
+    height: 500px;
+    width: 50%;
+    /* border: 2px solid grey; */
+    float: left;
+   }
+   .dob-2{
+    height: 800px;
+    width: 40%;
+    /* border: 2px solid red; */
+    margin-left: 810px;
+   }
+   .dob-1 h1{
+    margin-top: -500px;
+    color: aliceblue;
+    margin-left: 200px;
+    font-weight: 900;
+   }
+   .dob-1 p{
+    color: aliceblue;
+    text-align: center;
+    margin-left: 100px;
+   }
+   #age{
+    margin-left: 70px;
+    margin-top: -50px;
+   }
+   #im{
+    height: 50px;
+    margin-top: 50px;
+   }
+   .dob-2 p{
+    margin-top: 40px;
+   }
+.ema{
+    font-size: 100px;
+    margin-left: 20px;
+    color: gold;
+   }
+   #em{
+    margin-left: 130px;
+    margin-top: -90px;
+   }
+#email2{
+    margin-left: 140px;
+    margin-top: -30px;
+}
+#two{
+    margin-top: -20px;
+}
+.fa-mobile-screen-button{
+    font-size: 100px;
+    margin-left: 20px;
+    color: gold;
+}
+.fa-map-location-dot{
+    font-size: 100px;
+    margin-left: 20px;
+    color: gold;
+}
+#lo{
+    margin-left: 140px;
+    margin-top: -90px;
+}
+.allicon i{
+    padding: 10px;
+    font-size: 20px;
+}
+.allicon{
+    margin-left: 40px;
+    margin-top: 50px;
+}
+.ses{
+    height: 100px;
+    width: 100%;
+    background-color: black;
+    margin-top: 100px;
+}
+
+#p{
+    margin-top: -50px;
+    color: aliceblue;
+    text-align: center;
+}
+/* *********************************************************************************************************** */
+@media screen and (max-width:600px) {
+    
+    ul li {
+        float: left;
+        padding: 10px;
+        list-style: none;
+    }
+    ul li a{
+        text-decoration: none;
+        color: aliceblue;
+        font-size: 20px;
+    }
+    .bar{
+        margin-left: 550px;
+    }
+    .dot{
+        margin-top: -20px;
+        float: left;
+    }
+    .agency{
+        margin-left: 100px;
+    }
+    
+    .fa-magnifying-glass{
+        font-size: 30px;
+        padding: 20px;
+        color: aliceblue;
+    }
+    .fa-facebook{
+        font-size: 30px;
+        color: aliceblue;
+    }
+    .hr{
+        height: 3px;
+        width: 100%;
+        background-color: aliceblue;
+    }
+    .leka{
+        margin-left: 200px;
+        margin-top: 100px;
+    }
+    .bold{
+        font-weight: 900;
+        color: aliceblue;
+    }
+    samp{
+        color: gold;
+    }
+    .lorem{
+        color: aliceblue;
+        margin-left: 200px;
+        font-size: 20px;
+    }
+    .bata{
+        margin-left: 200px;
+        height: 40px;
+        width: 150px;
+        border-radius: 20px;
+        background-color: yellow;
+        border: none;
+    }
+    /* part-1 ses */
+    .box-2{
+         height: 500px;
+         width: 450px;
+         margin-top: 200px;
+         margin-left: 800px;
+    }
+    .box-img{
+        height: 500px;
+         width: 400px;
+    }
+    .box-2-leka{
+        margin-top: -100px;
+        color: aliceblue;
+        margin-left: 10px;
+    }
+    .wel{
+        margin-top: -450px;
+        margin-left: 100px;
+        font-weight: 900;
+    }
+    .well{
+        color: aqua;
+    }
+    .coma{
+        margin-left: 80px;
+        font-size: 100px;
+    }
+    .coma-2{
+        margin-left: 130px;
+        margin-top: -50px;
+    }
+    .leka-2{
+        margin-left: 100px;
+    }
+    .bata-2{
+        margin-left: 90px;
+        background-color: gold;
+        border: none;
+        border-radius: 10px;
+        height: 40px;
+        width: 130px;
+    }  /* part 2 ses  */
+    /* part 3 suro */
+    .part-3{
+        background-image: url(img/part-3.jfif);
+        height: 700px;
+        background-repeat: no-repeat;
+        background-size: 100% 200vh;
+    }
+    .fb-pas{
+        height: 100px;
+        margin-left: 700px;
+        margin-top: 30px;
+    }
+    .cw-leka{
+        color: gold;
+        margin-left: 850px;
+        margin-top: -110px;
+    }
+    .cw-p{
+        color: rgb(167, 168, 170);
+        margin-left: 850px;
+    }
+    .fa-desktop{
+        font-size: 80px;
+        color: aliceblue;
+        margin-left: 750px;
+        margin-top: 30px;
+    }
+    .fa-diagram-project{
+        font-size: 80px;
+        color: aliceblue;
+        margin-left: 750px;
+        margin-top: 30px;
+    }
+    .fa-truck-medical{
+        font-size: 80px;
+        color: aliceblue;
+        margin-left: 740px;
+        margin-top: 30px;
+    }
+    .our-cp{
+        margin-top: -350px;
+        margin-left: 150px;
+    }
+    .our-cp h1{
+        color: aliceblue;
+    }
+    .our-cp h2{
+        color: gold;
+    }
+    .our-lorem p{
+        color: aliceblue;
+        margin-left: 150px;
+    }
+    /* <!-- part-3 ses -->
+       <!-- part 4 suro --> */
+       .p-4-b-1{
+        height: 500px;
+        width: 250px;
+        margin-top: 100px;
+        margin-left: 400px;
+        background-image: url(img/p-4-b1.jfif);
+        background-repeat: no-repeat;
+        background-size: 250px 500px;
+       }
+       .p-4-b-2{
+        height: 500px;
+        width: 250px;
+        margin-top: -500px;
+        margin-left: 100px;
+        background-image: url(img/p-4-b-2.jfif);
+        background-repeat: no-repeat;
+        background-size: 250px 500px;
+       }
+       .p-4-page{
+            height: 50px;
+            margin-left: 50px;
+            margin-top: 200px;
+       }
+       .p-4-b-1 H1{
+        color:gold;
+        margin-left: 20px;
+       }
+       .p-4-b-1 p{
+        color: rgb(233, 240, 240);
+        margin-left:20PX;
+       }
+       .p-4-b-1 button{
+        margin-left: 50px;
+        background-color: gold;
+        border: none;
+        border-radius: 15px;
+       }
+    .p-4-b-2 img{
+         color: rgb(36, 111, 177);
+         height: 70px;
+         margin-left: 80px;
+         margin-top: 200px;
+       }
+       .p-4-b-2 H1{
+        color:gold;
+        margin-left: 20px;
+       }
+       .p-4-b-2 p{
+        color: rgb(233, 240, 240);
+        margin-left:20PX;
+       }
+       .p-4-b-2 button{
+        margin-left: 50px;
+        background-color: gold;
+        border: none;
+        border-radius: 15px;
+       }
+       .for{
+        margin-left: 700px;
+        margin-top: -500px;
+       }
+       .for h1{
+        font-weight: 900;
+       }
+       .lore-2{
+        margin-left: -50px;
+       }
+       .for h2{
+        color: rgb(243, 11, 185);
+       }
+    
+       /* <!-- part 4 see --> */
+       /* <!-- p 5 suro --> */
+       .bgallteam{
+            background-image: url(img/team.jpg);
+            height: 700px;
+            background-repeat: no-repeat;
+            margin-top: 400px;
+            background-size: 100% 700px;
+       }
+       .one{
+        color: rgb(245, 244, 242);
+        margin-left: 500px;
+       }
+       .one-two{
+        color: gold;
+        margin-top: -55px;
+        margin-left: 670px;
+       }
+       .b-1{
+        height: 300px;
+        width: 250px;
+        margin-top: 150px;
+        margin-left: 100px;
+        float: left;
+       }
+       .b-2{
+        height: 300px;
+        width: 250px;
+        margin-top: 150px;
+        margin-left: 50px;
+        float: left;
+       }
+       .b-3{
+        height: 300px;
+        width: 250px;
+        margin-top: 150px;
+        margin-left: 53px;
+        float: left;
+       }
+       .b-4{
+        height: 300px;
+        width: 250px;
+        margin-top: 160px;
+        margin-left: 1000px;
+       }
+       .bgallteam p{
+        text-align: center;
+        color: aliceblue;
+       }
+       .b-1 img{
+        height: 300px;
+        width: 250px;
+       }
+       .b-2 img{
+        height: 300px;
+        width: 250px;
+       }
+       .b-3 img{
+        height: 300px;
+        width: 250px;
+       }
+       .b-4 img{
+        height: 300px;
+        width: 250px;
+       }     /* <!-- part-5 ses -->        */
+       /* part 6 suro */
+       .di-1{
+        height: 200px;
+        width: 300px;
+        margin-top: 100px;
+        margin-left: 150px;
+       }
+       .di-2{
+         height: 200px;
+         width: 200px;
+         margin-top: 20px;
+         margin-left: 150px;
+       }
+       .di-3{
+        height: 200px;
+        width: 350px;
+        margin-left: 380px;
+        margin-top: -200px;
+       }
+    .di-1 img{
+        height: 200px;
+        width: 300px;
+       }
+    .di-2 img{
+        height: 200px;
+         width: 200px;
+    }
+    .di-3 img{
+        height: 200px;
+        width: 350px;
+    }
+    .have{
+        float: right;
+        margin-right: 700px;
+        margin-top: -200px;
+    }
+    .have h2{
+        color: rgb(13, 188, 231);
+        font-weight: 900;
+    }
+       .have h1{
+        font-weight: 900;
+       }
+    .r-leka{
+          height: 260px;
+          width: 500px;
+          margin-left: 750px;
+          margin-top: -260px;
+       }
+       /* <!-- part-6 ses --> */
+       .part-7 h1{
+        text-align: center;
+        margin-top: 100px;
+        font-weight: 900;
+       }
+       .part-7 p{
+        text-align: center;
+       }
+       .k-1{
+        height: 300px;
+        width: 33.33%;
+        border: 2px solid rgb(243, 242, 242);
+        float: left;
+       }
+       .k-2{
+        height: 300px;
+        width: 33.33%;
+        border: 2px solid rgb(249, 250, 249);
+        float: left;
+       }
+       .k-3{
+        height: 300px;
+        width: 33.333%;
+        border: 2px solid rgb(245, 245, 247);
+        margin-left: 900px;
+       }
+       .k-1 img{
+        height: 300px;
+        width: 100%;
+       }
+       .k-2 img{
+        height: 300px;
+        width: 100%;
+       }
+       .k-3 img{
+        height: 300px;
+        width: 100%;
+       }
+       .k-2 h4{
+        margin-top: -200px;
+        color: rgb(245, 221, 9);
+        text-align: center;
+       }
+       .k-2 p{
+        color: aliceblue;
+       }
+       .beta{
+        margin-left: 170px;
+        background-color: gold;
+        border-radius: 15PX;
+       }
+       /*  <!-- part-7 ses --> */
+       .p-8-1{
+          height: 200px;
+          width: 33.33%;
+          /* border: 2px dotted rgb(150, 238, 9); */
+          float: left;
+       }
+       .p-8-2{
+        height: 200px;
+        width: 33.33%;
+        /* border: 2px dotted rgb(8, 155, 240); */
+        float: left;
+       }
+       .p-8-3{
+        height: 200px;
+        width: 33.33%;
+        /* border: 2px dotted rgb(248, 13, 170); */
+        margin-left: 900px;
+       }
+       .p-8-4{
+          height: 300px;
+          width: 300px;
+          /* border: 2px solid red; */
+          margin-top: 50px;
+          margin-left: 200px;
+       }
+       .p-8-5{
+         height: 300px;
+         width: 500px;
+         /* border: 2px dotted red; */
+         margin-left: 550px;
+         margin-top: -250px;
+       }
+       .p-8-2 img{
+        height: 200px;
+        margin-left: 120px;
+       }
+       .p-8-1 h1{
+        float: right;
+        margin-top: 50px;
+        margin-left: -10px;
+       }
+       .p-8-4 img{
+        height: 300px;
+          width: 300px;
+       }
+       /* <!-- part-8 ses --> */
+       /* <!-- part-9 suro --> */
+       .part-9{
+        float: left;
+       }
+       .dob-1{
+        height: 500px;
+        width: 50%;
+        /* border: 2px solid grey; */
+        float: left;
+       }
+       .dob-2{
+        height: 800px;
+        width: 40%;
+        /* border: 2px solid red; */
+        margin-left: 810px;
+       }
+       .dob-1 h1{
+        margin-top: -500px;
+        color: aliceblue;
+        margin-left: 200px;
+        font-weight: 900;
+       }
+       .dob-1 p{
+        color: aliceblue;
+        text-align: center;
+        margin-left: 100px;
+       }
+       #age{
+        margin-left: 70px;
+        margin-top: -50px;
+       }
+       #im{
+        height: 50px;
+        margin-top: 50px;
+       }
+       .dob-2 p{
+        margin-top: 40px;
+       }
+    .ema{
+        font-size: 100px;
+        margin-left: 20px;
+        color: gold;
+       }
+       #em{
+        margin-left: 130px;
+        margin-top: -90px;
+       }
+    #email2{
+        margin-left: 140px;
+        margin-top: -30px;
+    }
+    #two{
+        margin-top: -20px;
+    }
+    .fa-mobile-screen-button{
+        font-size: 100px;
+        margin-left: 20px;
+        color: gold;
+    }
+    .fa-map-location-dot{
+        font-size: 100px;
+        margin-left: 20px;
+        color: gold;
+    }
+    #lo{
+        margin-left: 140px;
+        margin-top: -90px;
+    }
+    .allicon i{
+        padding: 10px;
+        font-size: 20px;
+    }
+    .allicon{
+        margin-left: 40px;
+        margin-top: 50px;
+    }
+    .ses{
+        height: 100px;
+        width: 100%;
+        background-color: black;
+        margin-top: 100px;
+    }
+    
+    #p{
+        margin-top: -50px;
+        color: aliceblue;
+        text-align: center;
+    }
+
+
+
+
+
+
+}
